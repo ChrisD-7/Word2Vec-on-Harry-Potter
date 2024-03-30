@@ -23,7 +23,7 @@ The wizarding world of Harry Potter is rich in context and relationships, making
 ## How to Use
 
 1. Ensure Python and the necessary libraries (e.g., gensim, matplotlib) are installed.
-2. Run the Jupyter notebook to train the Word2Vec model with the Harry Potter dataset.
+2. Run the Jupyter notebook to train the Word2Vec model with the Harry Potter [dataset](HarryPotter_2.xlsx).
 3. Use the trained model to explore word similarities and relationships.
 4. Visualize the word vectors and uncover hidden patterns in the data.
 
@@ -35,4 +35,4 @@ The wizarding world of Harry Potter is rich in context and relationships, making
 
 ## Credits
 
-Inspiration I'm just a fan.
+Inspiration I'm just a fan and landed on the script [Harry Potter and the Chamber of Secrets script](https://www.kaggle.com/datasets/eward96/harry-potter-and-the-chamber-of-secrets-script).
