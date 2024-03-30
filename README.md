@@ -1,6 +1,8 @@
 <a target="_blank" href="https://colab.research.google.com/github/ChrisD-7/MI564/blob/main/w2vec.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+
 # Word2Vec on Harry Potter - README
 
 ## Overview
