@@ -33,9 +33,9 @@ The wizarding world of Harry Potter is rich in context and relationships, making
 - Matplotlib for visualizing word vectors.
 - NLTK for text preprocessing and analysis.
 
-## Credits
+## Inspiration
 
-Inspiration I'm just a fan and landed on the script [Harry Potter and the Chamber of Secrets script](https://www.kaggle.com/datasets/eward96/harry-potter-and-the-chamber-of-secrets-script).
+ I'm just a fan and landed on the script [Harry Potter and the Chamber of Secrets script](https://www.kaggle.com/datasets/eward96/harry-potter-and-the-chamber-of-secrets-script).
 
 
 ![Word2Vec](images/ezgif.com-animated-gif-maker.gif)
